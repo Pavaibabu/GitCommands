@@ -19,4 +19,8 @@ git commit: feat,fix docs,style,refactor,test,chore
     git commit -m "chore: update dependencies"
 git pull:
 git status:
-
+git diff:
+git branch:
+    git checkout -b new-branch: Create and switch to a new branch
+    git branch -d branch-name: Delete a branch  
+git merge:
