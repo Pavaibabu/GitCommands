@@ -1,0 +1,20 @@
+Git Configurations:
+    git config --global user.name "Your Name"
+    git config --global user.email "your@email.com"
+git init:
+git clone:
+git add:
+git push:
+    Remote repo:After git push, you can check the remote repository to see if the changes have been applied.
+    Ready for push: After(git commit) adding files to the staging area, you can push them to the remote repository.
+    Staged:After git add
+    unstaged:Before git add
+git commit: feat,fix docs,style,refactor,test,chore
+    git commit -m "feat: add new feature"
+    git commit -m "fix: fix bug"
+    git commit -m "docs: update documentation"
+    git commit -m "style: format code"
+    git commit -m "refactor: refactor code"
+    git commit -m "test: add tests"
+    git commit -m "chore: update dependencies"
+git pull:
