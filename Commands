@@ -18,3 +18,5 @@ git commit: feat,fix docs,style,refactor,test,chore
     git commit -m "test: add tests"
     git commit -m "chore: update dependencies"
 git pull:
+git status:
+
